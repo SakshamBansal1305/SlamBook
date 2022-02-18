@@ -35,3 +35,15 @@ textarea{
     height: 100px;
     background-color: rgb(216, 247, 210);
 }
+
+button{
+    background-color: blue;
+    width: 70px;
+    height: 25px;
+}
+
+a{
+    text-decoration: none;
+    color: aqua;
+    font-weight: bolder;
+}
